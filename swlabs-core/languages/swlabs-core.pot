@@ -1,0 +1,916 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: swlabs-core\n"
+"POT-Creation-Date: 2016-03-25 20:07+0700\n"
+"PO-Revision-Date: 2016-03-25 20:08+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: esc_html_e;esc_html__;_n:1,2;_n_noop:1,2;_nx:1,2;"
+"_nx_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+
+msgid "Select a revolution slider"
+msgstr ""
+
+msgid "Select a category slider"
+msgstr ""
+
+msgid "None"
+msgstr ""
+
+msgid "Breaking News"
+msgstr ""
+
+msgid "Breadcrumb"
+msgstr ""
+
+msgid "Main Category"
+msgstr ""
+
+msgid ""
+"If the post has multiple categories, choose one category to display in the "
+"category labels."
+msgstr ""
+
+msgid "Default Setting"
+msgstr ""
+
+msgid ""
+"( Using setting of theme options. All below setting will NOT be allowed.)"
+msgstr ""
+
+msgid "Post Layout"
+msgstr ""
+
+msgid "Choose layout to display this post."
+msgstr ""
+
+msgid "Blog Sidebar Layout"
+msgstr ""
+
+msgid "Choose locate to display sidebar"
+msgstr ""
+
+msgid "Blog Sidebar Name"
+msgstr ""
+
+msgid ""
+"Choose sidebar to display. If you want to add new sidebar, please go to "
+msgstr ""
+
+msgid "Related Posts"
+msgstr ""
+
+msgid "Show or hide related posts. Default hide."
+msgstr ""
+
+msgid "Body Extra Class"
+msgstr ""
+
+msgid "Content Padding (Top/Bottom)"
+msgstr ""
+
+msgid "Insert content top, bottom padding (px)"
+msgstr ""
+
+msgid "Display below Navigation"
+msgstr ""
+
+msgid "Hover Style"
+msgstr ""
+
+msgid "Background Style"
+msgstr ""
+
+msgid "Transparent"
+msgstr ""
+
+msgid "Upload Image"
+msgstr ""
+
+msgid "Remove"
+msgstr ""
+
+msgid "Header Top Background"
+msgstr ""
+
+msgid "Header Top Text Color"
+msgstr ""
+
+msgid "Header Sticky"
+msgstr ""
+
+msgid "Enable/Disable fixed header when scroll"
+msgstr ""
+
+msgid "Enable"
+msgstr ""
+
+msgid "Header Style"
+msgstr ""
+
+msgid "Select a header style"
+msgstr ""
+
+msgid "Sidebar Layout"
+msgstr ""
+
+msgid "Sidebar Name"
+msgstr ""
+
+msgid "Footer Section"
+msgstr ""
+
+msgid "Show/Hide footer"
+msgstr ""
+
+msgid "Show"
+msgstr ""
+
+msgid "Footer Bottom"
+msgstr ""
+
+msgid "Show/Hide footer bottom"
+msgstr ""
+
+msgid "Footer Style"
+msgstr ""
+
+msgid "Select a footer style"
+msgstr ""
+
+msgid "Footer Column"
+msgstr ""
+
+msgid ""
+"Choose grid layout for footer.<br> Please go on \"Appearance->Widget\" to "
+"set data for footer"
+msgstr ""
+
+msgid "Footer Column 1"
+msgstr ""
+
+msgid "Footer Column 2"
+msgstr ""
+
+msgid "Footer Column 3"
+msgstr ""
+
+msgid "Footer Column 4"
+msgstr ""
+
+msgid ""
+"Choose Video Format to use Video Options. It will be embedded in the post "
+"and Featured Image will use to thumb of this post."
+msgstr ""
+
+msgid "Type"
+msgstr ""
+
+msgid "MP4 Upload"
+msgstr ""
+
+msgid "Choose file .mp4 to upload"
+msgstr ""
+
+msgid "Vimeo ID"
+msgstr ""
+
+msgid "Youtube ID"
+msgstr ""
+
+msgid "Choose or Upload an Image"
+msgstr ""
+
+msgid "Use this image"
+msgstr ""
+
+msgid "Page %1$s of %2$s "
+msgstr ""
+
+msgid "Page"
+msgstr ""
+
+msgid "of"
+msgstr ""
+
+msgid "No"
+msgstr ""
+
+msgid "Name"
+msgstr ""
+
+msgid "P"
+msgstr ""
+
+msgid "PTS"
+msgstr ""
+
+msgid "Yes"
+msgstr ""
+
+msgid "-No-"
+msgstr ""
+
+msgid "-Yes-"
+msgstr ""
+
+msgid "-No paging-"
+msgstr ""
+
+msgid "Ajax Paging"
+msgstr ""
+
+msgid "Load More Button"
+msgstr ""
+
+msgid "Paging ( Load Page )"
+msgstr ""
+
+msgid "- No filter -"
+msgstr ""
+
+msgid "Filter by categories"
+msgstr ""
+
+msgid "Filter by authors"
+msgstr ""
+
+msgid "Filter by tag slug"
+msgstr ""
+
+msgid "Hide"
+msgstr ""
+
+msgid "Two"
+msgstr ""
+
+msgid "Three"
+msgstr ""
+
+msgid "Four"
+msgstr ""
+
+msgid "One"
+msgstr ""
+
+msgid "Style 1"
+msgstr ""
+
+msgid "Style 2"
+msgstr ""
+
+msgid "Style 3"
+msgstr ""
+
+msgid "Style 4"
+msgstr ""
+
+msgid "Style 5"
+msgstr ""
+
+msgid "Style 6"
+msgstr ""
+
+msgid "- Latest -"
+msgstr ""
+
+msgid "A to Z"
+msgstr ""
+
+msgid "Z to A"
+msgstr ""
+
+msgid "Random posts today"
+msgstr ""
+
+msgid "Random posts a week ago"
+msgstr ""
+
+msgid "Random posts a month ago"
+msgstr ""
+
+msgid "Random Posts"
+msgstr ""
+
+msgid "Most Commented"
+msgstr ""
+
+msgid "Popular"
+msgstr ""
+
+msgid "Self-Hosted Video"
+msgstr ""
+
+msgid "Vimeo"
+msgstr ""
+
+msgid "Youtube"
+msgstr ""
+
+msgid "Center"
+msgstr ""
+
+msgid "Left"
+msgstr ""
+
+msgid "Right"
+msgstr ""
+
+msgid "No Repeat"
+msgstr ""
+
+msgid "Repeat All"
+msgstr ""
+
+msgid "Repeat Horizontally"
+msgstr ""
+
+msgid "Repeat Vertically"
+msgstr ""
+
+msgid "Inherit"
+msgstr ""
+
+msgid "Cover"
+msgstr ""
+
+msgid "Contain"
+msgstr ""
+
+msgid "Left Top"
+msgstr ""
+
+msgid "Left center"
+msgstr ""
+
+msgid "Left Bottom"
+msgstr ""
+
+msgid "Center Top"
+msgstr ""
+
+msgid "Center Center"
+msgstr ""
+
+msgid "Center Bottom"
+msgstr ""
+
+msgid "Right Top"
+msgstr ""
+
+msgid "Right center"
+msgstr ""
+
+msgid "Right Bottom"
+msgstr ""
+
+msgid "Fixed"
+msgstr ""
+
+msgid "Scroll"
+msgstr ""
+
+msgid "-No Show-"
+msgstr ""
+
+msgid "Top banner"
+msgstr ""
+
+msgid "Sidebar banner 01"
+msgstr ""
+
+msgid "Sidebar banner 02"
+msgstr ""
+
+msgid "Content banner"
+msgstr ""
+
+msgid "Content banner 02"
+msgstr ""
+
+msgid "Content banner 03"
+msgstr ""
+
+msgid "Liga"
+msgstr ""
+
+msgid "Ligue 1"
+msgstr ""
+
+msgid "Serie A"
+msgstr ""
+
+msgid "Bundesliga"
+msgstr ""
+
+msgid "Eredivisie"
+msgstr ""
+
+msgid "Pro League"
+msgstr ""
+
+msgid "Premier League"
+msgstr ""
+
+msgid "Layout"
+msgstr ""
+
+msgid "Choose Layout"
+msgstr ""
+
+msgid "Extra class"
+msgstr ""
+
+msgid "Enter extra class."
+msgstr ""
+
+msgid "Add section"
+msgstr ""
+
+msgid "SW Accordion"
+msgstr ""
+
+msgid "Collapsible content panels"
+msgstr ""
+
+msgid "Section 1"
+msgstr ""
+
+msgid "Section 2"
+msgstr ""
+
+msgid "Choose Advertisement"
+msgstr ""
+
+msgid ""
+"Go to \"Theme options -> Advertisement Settings\" to configure advertisement."
+msgstr ""
+
+msgid "SW Ads Banner"
+msgstr ""
+
+msgid "Create a advertisement banner."
+msgstr ""
+
+msgid "-All tags-"
+msgstr ""
+
+msgid "-All authors-"
+msgstr ""
+
+msgid "Block Title"
+msgstr ""
+
+msgid "Block title"
+msgstr ""
+
+msgid "Block Title Color"
+msgstr ""
+
+msgid "Choose block title color."
+msgstr ""
+
+msgid "Number Posts"
+msgstr ""
+
+msgid "Enter number of posts to display"
+msgstr ""
+
+msgid "Offset Posts"
+msgstr ""
+
+msgid "Enter offset to display"
+msgstr ""
+
+msgid "Sort By"
+msgstr ""
+
+msgid "Choose criteria to display."
+msgstr ""
+
+msgid "Pagination"
+msgstr ""
+
+msgid "Pagination."
+msgstr ""
+
+msgid "Show Ajax Dropdown - Filter type"
+msgstr ""
+
+msgid ""
+"Show the ajax dropdown filter. If no items are seleted in \"Filter\" tab, "
+"the ajax dropdown filter will show all items ( ex: all categories, all tags, "
+"all author )"
+msgstr ""
+
+msgid "Ajax Dropdown - Filter default text"
+msgstr ""
+
+msgid "All"
+msgstr ""
+
+msgid "The default text for first item."
+msgstr ""
+
+msgid "Extra Class"
+msgstr ""
+
+msgid "Add extra class to block"
+msgstr ""
+
+msgid "Category"
+msgstr ""
+
+msgid "Add Category"
+msgstr ""
+
+msgid "Choose special category to filter"
+msgstr ""
+
+msgid "Default no filter by category."
+msgstr ""
+
+msgid "Filter"
+msgstr ""
+
+msgid "Tag"
+msgstr ""
+
+msgid "Add Tag"
+msgstr ""
+
+msgid "Choose special tag to filter"
+msgstr ""
+
+msgid "Default no filter by tag."
+msgstr ""
+
+msgid "Author"
+msgstr ""
+
+msgid "Add Author"
+msgstr ""
+
+msgid "Choose special author to filter"
+msgstr ""
+
+msgid "Default no filter by author."
+msgstr ""
+
+msgid "SW Block 1"
+msgstr ""
+
+msgid "Block of posts."
+msgstr ""
+
+msgid "SW Block 10"
+msgstr ""
+
+msgid "Column"
+msgstr ""
+
+msgid "Choose column.Default is four column."
+msgstr ""
+
+msgid "SW Block 11"
+msgstr ""
+
+msgid "Choose column.Default is two column."
+msgstr ""
+
+msgid "Show excerpt"
+msgstr ""
+
+msgid "Show excerpt of post."
+msgstr ""
+
+msgid "SW Block 2"
+msgstr ""
+
+msgid "Block title. If it blank the block will not have a title"
+msgstr ""
+
+msgid "Choose a custom title text color."
+msgstr ""
+
+msgid "Style"
+msgstr ""
+
+msgid "Choose columns to display small posts."
+msgstr ""
+
+msgid ""
+"The number of posts to display. If it blank the number posts will be the "
+"number from Wordpress settings -> Reading"
+msgstr ""
+
+msgid ""
+"Enter offset to display. If you want to start on record 6, using offset 5"
+msgstr ""
+
+msgid "Columns"
+msgstr ""
+
+msgid "Show pagination."
+msgstr ""
+
+msgid "SW Block 3"
+msgstr ""
+
+msgid "SW Block 4"
+msgstr ""
+
+msgid "Show Exerpt"
+msgstr ""
+
+msgid "Choose if you want to show exerpt or not."
+msgstr ""
+
+msgid "SW Block 5"
+msgstr ""
+
+msgid "SW Block 6"
+msgstr ""
+
+msgid "SW Block 7"
+msgstr ""
+
+msgid "Choose if appear exerpt or not."
+msgstr ""
+
+msgid "SW Block 8"
+msgstr ""
+
+msgid "SW Block 9"
+msgstr ""
+
+msgid "Choose column to show in page.Default is one column."
+msgstr ""
+
+msgid "SW Carousel 1"
+msgstr ""
+
+msgid "Carousel with WP Posts."
+msgstr ""
+
+msgid "SW Carousel 2"
+msgstr ""
+
+msgid "Category Title Tab"
+msgstr ""
+
+msgid "Category title. If it blank the category will not have a title"
+msgstr ""
+
+msgid "Show Category Tab."
+msgstr ""
+
+msgid "Show category tab. If it uncheck or blank the category will invisible"
+msgstr ""
+
+msgid ""
+"The number of posts to display. If it blank the number posts will be the "
+"number from Wordpress settings -> Reading. If you want show all, enter \"-1\""
+msgstr ""
+
+msgid "SW Carousel 3"
+msgstr ""
+
+msgid "Show Except"
+msgstr ""
+
+msgid "Check in this if you want to show except."
+msgstr ""
+
+msgid "Show Meta"
+msgstr ""
+
+msgid "Check in this if you want to show related infomation of post."
+msgstr ""
+
+msgid "SW Carousel 4"
+msgstr ""
+
+msgid "SW Carousel 5"
+msgstr ""
+
+msgid "Title"
+msgstr ""
+
+msgid "Enter title."
+msgstr ""
+
+msgid "Content"
+msgstr ""
+
+msgid "Enter content."
+msgstr ""
+
+msgid "SW Block Info"
+msgstr ""
+
+msgid "Show block information."
+msgstr ""
+
+msgid "SW Slider 1"
+msgstr ""
+
+msgid "Slider with WP Posts."
+msgstr ""
+
+msgid "SW Slider 2"
+msgstr ""
+
+msgid "SW Slider 3"
+msgstr ""
+
+msgid "Enter title of block"
+msgstr ""
+
+msgid "Choose Category"
+msgstr ""
+
+msgid "Choose special category to display."
+msgstr ""
+
+msgid "Default display all categories if no category is selected."
+msgstr ""
+
+msgid "SW Categories"
+msgstr ""
+
+msgid "A categories list."
+msgstr ""
+
+msgid "Grid Title"
+msgstr ""
+
+msgid "Grid title. If it blank the grid will not have a title"
+msgstr ""
+
+msgid "Grid Title Color"
+msgstr ""
+
+msgid "Add extra class to grid"
+msgstr ""
+
+msgid "SW Grid 1"
+msgstr ""
+
+msgid "WP Posts in grid."
+msgstr ""
+
+msgid "SW Grid 2"
+msgstr ""
+
+msgid "SW Grid 3"
+msgstr ""
+
+msgid "SW Grid 4"
+msgstr ""
+
+msgid "Choose layout to display."
+msgstr ""
+
+msgid "Icon Color"
+msgstr ""
+
+msgid "Choose icon color."
+msgstr ""
+
+msgid "Icon Background  Color"
+msgstr ""
+
+msgid "Choose icon background color."
+msgstr ""
+
+msgid "Add Item"
+msgstr ""
+
+msgid "SW Bullets and List"
+msgstr ""
+
+msgid "Entar title of block."
+msgstr ""
+
+msgid "Title color"
+msgstr ""
+
+msgid "Choose a title color for this block"
+msgstr ""
+
+msgid "Leagues"
+msgstr ""
+
+msgid "Add League"
+msgstr ""
+
+msgid "All Leagues"
+msgstr ""
+
+msgid "Choose special a league to show"
+msgstr ""
+
+msgid "Default all leagues."
+msgstr ""
+
+msgid "SW Football Livescore"
+msgstr ""
+
+msgid "Create a weather block."
+msgstr ""
+
+msgid "SOCIAL CONNECTED"
+msgstr ""
+
+msgid "Enter title for this block"
+msgstr ""
+
+msgid "Facebook User:"
+msgstr ""
+
+msgid "Twitter User:"
+msgstr ""
+
+msgid "Youtube User:"
+msgstr ""
+
+msgid "Vimeo User:"
+msgstr ""
+
+msgid "Google Plus ID:"
+msgstr ""
+
+msgid "Instagram User:"
+msgstr ""
+
+msgid "Soundcloud User:"
+msgstr ""
+
+msgid "RSS User:"
+msgstr ""
+
+msgid "SW Social Counter"
+msgstr ""
+
+msgid "Create a social counter."
+msgstr ""
+
+msgid "Choose survey"
+msgstr ""
+
+msgid "Choose survey to display."
+msgstr ""
+
+msgid "SW Survey"
+msgstr ""
+
+msgid "Create a survey."
+msgstr ""
+
+msgid "SW Tabs"
+msgstr ""
+
+msgid "Choose style"
+msgstr ""
+
+msgid "Extra class name"
+msgstr ""
+
+msgid ""
+"Style particular content element differently - add a class name and refer to "
+"it in custom CSS."
+msgstr ""
+
+msgid "SW Video List"
+msgstr ""
+
+msgid "List of video format type"
+msgstr ""
+
+msgid "Location"
+msgstr ""
+
+msgid "(i.e: Austin, TX or London, UK)"
+msgstr ""
+
+msgid "SW Weather"
+msgstr ""
+
+msgid "Sku"
+msgstr ""
+
+msgid "Id"
+msgstr ""
+
+msgid "Slug"
+msgstr ""
